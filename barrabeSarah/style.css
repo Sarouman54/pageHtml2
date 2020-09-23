@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+#head{
+	text-align:center;
+	border:solid;
+}
+
+img{
+	float:right;
+	height:110px;
+	width:115px;
+}
