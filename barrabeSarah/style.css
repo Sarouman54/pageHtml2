@@ -9,3 +9,14 @@ img{
 	height:110px;
 	width:115px;
 }
+
+#corps{
+	text-align: center;
+	border:solid;
+	margin-top:20px;
+	padding: 20px;
+}
+
+button{
+	color:green;
+}
